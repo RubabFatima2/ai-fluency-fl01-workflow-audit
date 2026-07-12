@@ -100,7 +100,7 @@ Ensuring originality, ethical conduct, proper citation, and accurate reporting o
 
 ---
 
-# Target Task 1 — Writing a Conference Research Paper
+# Target Task 1: Writing a Conference Research Paper
 
 ## Success Definition
 
@@ -119,7 +119,7 @@ A research paper is considered complete when it:
 
 ---
 
-# Target Task 2 — Studying Backend Engineering
+# Target Task 2: Studying Backend Engineering
 
 ## Success Definition
 
@@ -138,7 +138,7 @@ A study session is successful when I can:
 
 ---
 
-# Target Task 3 — Building Backend Projects
+# Target Task 3: Building Backend Projects
 
 ## Success Definition
 
@@ -181,7 +181,7 @@ A backend project is complete when it:
 
 > Insert screenshot
 
-![Claude](screenshots/21.png)
+![Claude](screenshots/3.png)
 
 ---
 
@@ -189,7 +189,7 @@ A backend project is complete when it:
 
 > Insert screenshot
 
-![Anthropic Academy](3/anthropic-academy.png)
+![Anthropic Academy](screenshots/3.png)
 
 ---
 
@@ -197,7 +197,7 @@ A backend project is complete when it:
 
 > Insert screenshot
 
-![Module Completion](3/module-completion.png)
+![Module Completion](screenshots/3.png)
 
 ---
 
@@ -209,23 +209,6 @@ A backend project is complete when it:
 - Git
 - GitHub
 - Markdown
-
----
-
-# Repository Structure
-
-```
-AI-Fluency-FL01/
-│── README.md
-│── screenshots/
-│   ├── claude-project.png
-│   ├── chatgpt-account.png
-│   ├── claude-account.png
-│   ├── anthropic-academy.png
-│   └── module-completion.png
-```
-
----
 
 # Reflection
 

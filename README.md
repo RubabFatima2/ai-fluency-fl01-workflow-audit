@@ -165,7 +165,7 @@ A backend project is complete when it:
 
 > Insert screenshot
 
-![Claude Project](screenshots/claude-project.png)
+![Claude Project](screenshots/1.png)
 
 ---
 
